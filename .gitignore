@@ -1,4 +1,9 @@
 .metadata
 .recommenders
+.project
+.cache-main
+.classpath
+.settings
 *.class
 *.log
+ProjectTest*
